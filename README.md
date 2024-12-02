@@ -7,5 +7,17 @@ This repository contains SQL queries on a library system and management database
 - **README.md**: this provides an overview of the repository and instructions for accessing and using the SQL queries.
 - Click 👉[here](https://drive.google.com/drive/folders/1NkIZqxDPa-3t3g6Le_QqIK5PXWJz12B5?usp=sharing)👈to see files
 
+## Data Source
+[Zero Analyst](https://github.com/najirh/Library-System-Management---P2)
+
+## Objectives
+- **Design a Library Management System Database**: Build and populate a database with tables for branches, employees, members, books, issued status, and return status. Import the data into SQL for further analysis.
+- **Execute CRUD Operations**: Perform Create, Read, Update, and Delete actions on the provided data.
+- **Use CTAS (Create Table As Select)**: Leverage CTAS to generate new tables based on query results.
+- **Craft Advanced SQL Queries**: Create sophisticated queries to analyze and extract specific insights from the library management system data.
+
+
+
+
 ## Author
 [Babafunso Jegede](https://www.linkedin.com/in/babafunso-jegede-09634a232/)
