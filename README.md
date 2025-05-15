@@ -1,6 +1,6 @@
 # library_system_management_report_with_SQL
 ## Overview
-This repository features SQL queries designed for a library management database. It includes tasks such as creating and managing tables, performing CRUD operations (Create, Read, Update, and Delete), and executing advanced SQL queries, including JOINs. The objective is to demonstrate technical proficiency in database design, manipulation, and querying within the context of a library management system. The dataset encompasses information on books, branches, employees, and members to whom books are issued, among other relevant details.
+This repository features SQL queries designed for a library management database. It includes tasks such as creating and managing tables, performing CRUD operations (Create, Read, Update, and Delete), and executing advanced SQL queries, including JOINs. The objective is to demonstrate technical proficiency in database design, manipulation, and querying within the context of a library management system. The dataset encompasses information on books, branches, employees, and members to whom books are issued, among other relevant details
 
 ## Files
 - **sql_queries_sql**: contains sql queries used to analyse the dataset and answer specific questions.
