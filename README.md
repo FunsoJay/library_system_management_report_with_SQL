@@ -6,7 +6,6 @@ This repository features SQL queries designed for a library management database.
 - **sql_queries_sql**: contains sql queries used to analyse the dataset and answer specific questions.
 - **data_model_ERD.png**: Entity relationship diagram(ERD) showing the data model and relationships between the tables.
 - **README.md**: this provides an overview of the repository and instructions for accessing and using the SQL queries.
-- Click 👉[here](https://drive.google.com/drive/folders/1NkIZqxDPa-3t3g6Le_QqIK5PXWJz12B5?usp=sharing)👈to see files
 
 ## Data Source
 [Zero Analyst](https://github.com/najirh/Library-System-Management---P2)
